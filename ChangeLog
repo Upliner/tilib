@@ -1,0 +1,13 @@
+0.9.0
+
+  * initial version
+
+0.9.1
+
+  * improved Butterworth transform
+
+  * improved command line parsing
+
+  * separate TiLib package for Win32 (VC6 project) and UNIX (autoconf)
+
+  * some minor bugfixes in ticodec

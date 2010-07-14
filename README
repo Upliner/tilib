@@ -1,0 +1,46 @@
+[ Introduction ]
+
+TiLib (Tiny Library) is a wavelet-based lossy image compression library.
+Library provides simple memory-to-memory interface. TiLib supports famous
+Daubechies 9/7 biorthogonal wavelet transform and Butterworth biorthogonal
+wavelet transform. All transforms are implemented in a fast lifting mode.
+Finally, TiLib uses SPIHT algorithm to encode transformed coefficients.
+TiLib can work with either 8-bit grayscale or 24-bit truecolor images.
+TiLib supports precise rate control and fully embedded encoding.
+
+This package also contains simple codec (called ticodec) that shows how
+to use TiLib for image compression. Look at the source and everything
+makes clear! Currently, ticodec supports PGM and PPM formats.
+
+[ Changelog ]
+
+0.9.0
+
+  * initial version
+
+0.9.1
+
+  * improved Butterworth transform
+
+  * improved command line parsing
+
+  * separate TiLib package for Win32 (VC6 project) and UNIX (autoconf)
+
+  * some minor bugfixes in ticodec
+
+[ To do or not to do? ]
+
+Well, nothing planned yet =)
+
+[ Contact me ]
+
+http://www.entropyware.info
+xander@entropyware.info
+
+[ P.S. ]
+
+If this program works, than it was written by Alexander Simakov,
+if not, than I don`t known who wrote it ;)
+
+And the last, but not the least: if you use TiLib or ticodec in
+your project, please let me known. I will be very glad ;)
