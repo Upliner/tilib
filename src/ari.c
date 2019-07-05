@@ -25,8 +25,6 @@
  * I.H. Witten, R.M. Neal, and J.H. Cleary, "Arithmetic coding for data
  * compression" CACM, vol. 30, pp. 520-540, Jun. 1987.
  *
- * E-mail: xander@entropyware.info
- * Internet: http://www.entropyware.info
  */
 
 #include <stdlib.h>

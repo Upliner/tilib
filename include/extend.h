@@ -20,8 +20,6 @@
  *
  * Image extending routines for wavelet transform.
  *
- * E-mail: xander@entropyware.info
- * Internet: http://www.entropyware.info
  */
 
 #ifndef EXTEND_H

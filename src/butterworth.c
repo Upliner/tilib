@@ -26,8 +26,6 @@
  * implementation with the use of recursive filters," Computational mathematics
  * mathematical physics, vol. 42, no. 4, 2002, pp. 571-582.
  *
- * E-mail: xander@entropyware.info
- * Internet: http://www.entropyware.info
  */
 
 #include <stdlib.h>

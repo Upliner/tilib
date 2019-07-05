@@ -20,8 +20,6 @@
  *
  * An implementation of double linked list data structure for SPIHT.
  *
- * E-mail: xander@entropyware.info
- * Internet: http://www.entropyware.info
  */
 
 #include <stdlib.h>

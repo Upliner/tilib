@@ -20,8 +20,6 @@
  *
  * Color conversion routines (RGB <-> YCbCr).
  *
- * E-mail: xander@entropyware.info
- * Internet: http://www.entropyware.info
  */
 
 #ifndef COLOR_H

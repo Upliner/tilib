@@ -34,8 +34,6 @@
  * Wavelet Transform," IEEE Transactions on Image Processing, vol. 1,
  * no. 2, pp. 205-220, April 1992.
  * 
- * E-mail: xander@entropyware.info
- * Internet: http://www.entropyware.info
  */
 
 #include <stdlib.h>

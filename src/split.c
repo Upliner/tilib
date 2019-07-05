@@ -20,8 +20,6 @@
  *
  * Routines for spliting and merging bit streams for YCbCr channels.
  *
- * E-mail: xander@entropyware.info
- * Internet: http://www.entropyware.info
  */
 
 #define MIN(x, y) (x < y ? x : y)

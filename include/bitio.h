@@ -20,8 +20,6 @@
  *
  * Simple Bit I/O routines for SPIHT.
  *
- * E-mail: xander@entropyware.info
- * Internet: http://www.entropyware.info
  */
 
 #ifndef BITIO_H

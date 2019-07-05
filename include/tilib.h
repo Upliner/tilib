@@ -20,8 +20,6 @@
  *
  * Top-level compression & decompression functions.
  * 
- * E-mail: xander@entropyware.info
- * Internet: http://www.entropyware.info
  */
 
 #ifndef TILIB_H

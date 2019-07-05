@@ -32,8 +32,6 @@
  *
  * C. Valens, "Embedded Zerotree Wavelet Encoding", 1999
  *
- * E-mail: xander@entropyware.info
- * Internet: http://www.entropyware.info
  */
 
 #include <stdlib.h>

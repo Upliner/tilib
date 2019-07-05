@@ -5,9 +5,6 @@
  *
  * (C) ENTROPYWARE, Alexander Simakov.
  *
- * Our site: http://www.entropyware.info/
- * Support:  support@entropyware.info
- * Author:   xander@entropyware.info
  */
 
 #include <stdio.h>

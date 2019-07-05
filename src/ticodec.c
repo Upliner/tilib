@@ -20,8 +20,6 @@
  *
  * Example of using TiLib for image coding (see readme.txt).
  * 
- * E-mail: xander@entropyware.info
- * Internet: http://www.entropyware.info
  */
 
 #include <string.h>
@@ -58,8 +56,7 @@ void usage()
 {
   printf(
 "TiCodec - lossy image compressor based on TiLib ver 0.9.1\n"
-"Copyleft (C) 2004 Alexander Simakov, xander@entropyware.info\n"
-"http://www.entropyware.info\n"
+"Copyleft (C) 2004 Alexander Simakov\n"
 "Usage: ticodec [options]\n"
 "-e, --encode: Encode image\n"
 "-d, --decode: Decode image\n"

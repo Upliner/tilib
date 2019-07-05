@@ -20,8 +20,6 @@
  *
  * Color conversion routines (RGB <-> YCbCr).
  *
- * E-mail: xander@entropyware.info
- * Internet: http://www.entropyware.info
  */
 
 #define ROUND(x) (((x) < 0) ? (int) ((x) - 0.5) : (int) ((x) + 0.5))

@@ -20,8 +20,6 @@
  *
  * Just a few return codes for a library internal functions.
  *
- * E-mail: xander@entropyware.info
- * Internet: http://www.entropyware.info
  */
 
 #ifndef ERRCODES_H
